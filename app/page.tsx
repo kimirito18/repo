@@ -12,7 +12,7 @@ export default function Home() {
 
       <section>
         <h2>自己紹介</h2>
-        <p>こ私はアナルセックスが好きです！</p>
+        <p>僕はメガネっ娘が大好きです！</p>
       </section>
 
       <section style={{ marginTop: "20px" }}>
